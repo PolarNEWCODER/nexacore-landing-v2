@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 160" fill="none">
+  <defs>
+    <linearGradient id="ribbon" x1="37" y1="67" x2="137" y2="112" gradientUnits="userSpaceOnUse"><stop stop-color="#12346b"/><stop offset=".46" stop-color="#0785dc"/><stop offset="1" stop-color="#2864ad"/></linearGradient>
+    <linearGradient id="light" x1="51" y1="62" x2="109" y2="120" gradientUnits="userSpaceOnUse"><stop stop-color="#8af2f4"/><stop offset="1" stop-color="#71c9ff"/></linearGradient>
+  </defs>
+  <circle cx="80" cy="24" r="8" fill="#e5edf5"/>
+  <path d="M40 121C40 96 36 70 52 63C68 56 79 83 92 101C104 118 117 131 129 120C140 109 137 82 136 63" stroke="#06172b" stroke-width="23" stroke-linecap="round" stroke-linejoin="round" opacity=".8" transform="translate(2 4)"/>
+  <path d="M40 118C40 93 36 67 52 60C68 53 79 80 92 98C104 115 117 128 129 117C140 106 137 79 136 60" stroke="url(#ribbon)" stroke-width="18" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M45 82C46 68 49 62 55 61C69 59 80 84 93 101C104 116 117 127 127 117" stroke="url(#light)" stroke-width="3" stroke-linecap="round" opacity=".86"/>
+</svg>
